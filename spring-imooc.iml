@@ -26,5 +26,7 @@
     <orderEntry type="library" name="junit-4.10" level="project" />
     <orderEntry type="library" name="spring" level="project" />
     <orderEntry type="library" scope="TEST" name="commons-logging-1.1" level="project" />
+    <orderEntry type="library" name="javax.inject" level="project" />
+    <orderEntry type="library" name="aspect" level="project" />
   </component>
 </module>
